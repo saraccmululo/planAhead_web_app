@@ -4,6 +4,11 @@ Full-stack task management app that allows users to add, delete, and complete da
 
 ---
 
+## Video Overview
+[Watch the project overview](https://youtu.be/SzJLtUE33lk)
+
+---
+
 ## Features
 - User authentication and secure login  
 - Add, delete, and mark tasks as complete  
