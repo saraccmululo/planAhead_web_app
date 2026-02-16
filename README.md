@@ -1,4 +1,7 @@
 # PlanAhead Web App
+![PlanAhead Homepage](screenshots/homepage.png)
+![PlanAhead Add Task](screenshots/addTask.png)
+![PlanAhead Edit Task](screenshots/weekView.png)
 
 Full-stack task management app that allows users to add, delete, and complete daily tasks with persistent storage and secure authentication.
 
